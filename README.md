@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ThisIsAkriti
 - 👀 I’m a programmer
-- 🌱 I’m currently learning reactjs
-- 💞️ Enjoying 
+- 🌱 Currently learning reactjs
+- 💞️ Enjoying Life
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: "The term computer bug was inspired by a real insect that caused a malfunction in a computer".
+- ⚡ Me fact: "I love bugs because they make me a good problem-solver".
 
 <h1 align="center">Hi 👋, I'm Akriti</h1>
 <h3 align="center">A passionate and enthusiastic developer from India.</h3>
