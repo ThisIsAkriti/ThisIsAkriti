@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisakriti" alt="thisisakriti" /></a> </p>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Frontend , react**
 
