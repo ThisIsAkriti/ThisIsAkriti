@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisakriti" alt="thisisakriti" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **Frontend , react**
+- 💬 Ask me about **Frontend , react , Nextjs**
 
 - 📫 How to reach me **akriti0525@gmail.com**
 
