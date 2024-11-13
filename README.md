@@ -17,9 +17,7 @@
 <h1 align="center">Hi 👋, I'm Akriti</h1>
 <h3 align="center">A passionate and enthusiastic developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisakriti" alt="thisisakriti" /></a> </p>
-
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Frontend , react , Nextjs**
 
