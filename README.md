@@ -31,8 +31,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" width="80" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="NextJS" width="80" height="40"/> </a></p>
 
+<p/>  <img height="100" margin="20" src="https://github-profile-trophy.vercel.app/?username=MightyTechNinja&row=1&column=7" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisakriti&label=Profile%20views&color=0e75b6&style=flat" alt="thisisakriti" /> </p>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ThisIsAkriti&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisakriti&show_icons=true&locale=en&layout=compact" alt="thisisakriti" /></p>
 
