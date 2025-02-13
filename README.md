@@ -9,7 +9,7 @@
 
 - 👋 It's @ThisIsAkriti
 - 👀 I’m a programmer
-- 🌱 Currently learning Nodejs
+- 🌱 Currently Coding
 - 💞️ Enjoying Life
 - 😄 Pronouns: She/Her
 - ⚡ Me fact: "I love bugs because they make me a good problem-solver".
@@ -17,9 +17,9 @@
 <h1 align="center">Hi 👋, I'm Akriti</h1>
 <h3 align="center">A passionate and enthusiastic developer from India.</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently getting better at **Full stack**
 
-- 💬 Ask me about **Frontend , react , Nextjs**
+- 💬 Ask me about **Frontend , Backend, react , Nextjs, Nodejs**
 
 - 📫 How to reach me **akriti0525@gmail.com**
 
